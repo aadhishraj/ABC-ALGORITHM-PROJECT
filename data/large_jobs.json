@@ -1,0 +1,75 @@
+
+{
+  "jobs": {
+    "J1": [
+      {"machine": "M1", "duration": 5},
+      {"machine": "M2", "duration": 3},
+      {"machine": "M3", "duration": 4},
+      {"machine": "M4", "duration": 2},
+      {"machine": "M5", "duration": 6}
+    ],
+    "J2": [
+      {"machine": "M2", "duration": 4},
+      {"machine": "M3", "duration": 5},
+      {"machine": "M4", "duration": 3},
+      {"machine": "M5", "duration": 4},
+      {"machine": "M1", "duration": 2}
+    ],
+    "J3": [
+      {"machine": "M3", "duration": 3},
+      {"machine": "M4", "duration": 6},
+      {"machine": "M5", "duration": 2},
+      {"machine": "M1", "duration": 4},
+      {"machine": "M2", "duration": 5}
+    ],
+    "J4": [
+      {"machine": "M4", "duration": 5},
+      {"machine": "M5", "duration": 3},
+      {"machine": "M1", "duration": 6},
+      {"machine": "M2", "duration": 2},
+      {"machine": "M3", "duration": 4}
+    ],
+    "J5": [
+      {"machine": "M5", "duration": 4},
+      {"machine": "M1", "duration": 3},
+      {"machine": "M2", "duration": 5},
+      {"machine": "M3", "duration": 2},
+      {"machine": "M4", "duration": 6}
+    ],
+    "J6": [
+      {"machine": "M1", "duration": 2},
+      {"machine": "M3", "duration": 4},
+      {"machine": "M5", "duration": 5},
+      {"machine": "M2", "duration": 3},
+      {"machine": "M4", "duration": 4}
+    ],
+    "J7": [
+      {"machine": "M2", "duration": 6},
+      {"machine": "M4", "duration": 3},
+      {"machine": "M1", "duration": 4},
+      {"machine": "M3", "duration": 5},
+      {"machine": "M5", "duration": 2}
+    ],
+    "J8": [
+      {"machine": "M3", "duration": 5},
+      {"machine": "M5", "duration": 4},
+      {"machine": "M2", "duration": 3},
+      {"machine": "M4", "duration": 6},
+      {"machine": "M1", "duration": 2}
+    ],
+    "J9": [
+      {"machine": "M4", "duration": 3},
+      {"machine": "M1", "duration": 5},
+      {"machine": "M3", "duration": 2},
+      {"machine": "M5", "duration": 4},
+      {"machine": "M2", "duration": 6}
+    ],
+    "J10": [
+      {"machine": "M5", "duration": 5},
+      {"machine": "M2", "duration": 4},
+      {"machine": "M4", "duration": 2},
+      {"machine": "M1", "duration": 6},
+      {"machine": "M3", "duration": 3}
+    ]
+  }
+}
