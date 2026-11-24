@@ -1,0 +1,16 @@
+{
+  "jobs": {
+    "J1": [
+      {"machine": "M1", "duration": 3},
+      {"machine": "M2", "duration": 2}
+    ],
+    "J2": [
+      {"machine": "M2", "duration": 2},
+      {"machine": "M1", "duration": 4}
+    ],
+    "J3": [
+      {"machine": "M1", "duration": 2},
+      {"machine": "M2", "duration": 3}
+    ]
+  }
+}
